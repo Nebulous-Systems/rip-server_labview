@@ -68,7 +68,7 @@
 <NumElts>2</NumElts>
 <String>
 <Name>Sampled Variable</Name>
-<Val>t</Val>
+<Val>time</Val>
 </String>
 <DBL>
 <Name>Delta</Name>
@@ -148,7 +148,7 @@
 <NumElts>2</NumElts>
 <String>
 <Name>Sampled Variable</Name>
-<Val>t</Val>
+<Val>time</Val>
 </String>
 <DBL>
 <Name>Delta</Name>
