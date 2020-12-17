@@ -228,7 +228,7 @@
 				<Property Name="Source[0].File[1].unlock" Type="Bool">true</Property>
 				<Property Name="Source[0].File[2].dest" Type="Str">{B9317741-2FA3-4CAE-B607-375C6E28AFE0}</Property>
 				<Property Name="Source[0].File[2].name" Type="Str">mygadgets_conf.xml</Property>
-				<Property Name="Source[0].File[2].tag" Type="Ref">/My Computer/Configuration/mygadgets_conf.xml</Property>
+				<Property Name="Source[0].File[2].tag" Type="Ref"></Property>
 				<Property Name="Source[0].File[2].unlock" Type="Bool">true</Property>
 				<Property Name="Source[0].File[3].dest" Type="Str">{B9317741-2FA3-4CAE-B607-375C6E28AFE0}</Property>
 				<Property Name="Source[0].File[3].name" Type="Str">run_conf.xml</Property>

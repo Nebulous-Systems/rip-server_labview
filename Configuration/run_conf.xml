@@ -1,6 +1,6 @@
 <Cluster>
-<Name>Run Parameters</Name>
-<NumElts>5</NumElts>
+<Name>Run Parameters Conf</Name>
+<NumElts>3</NumElts>
 <U32>
 <Name>Timeout_to abort_a_nonresponding_VI</Name>
 <Val>5000</Val>
@@ -13,12 +13,4 @@
 <Name>Session_timeout</Name>
 <Val>14400000</Val>
 </U32>
-<String>
-<Name>LabVIEW Host</Name>
-<Val>localhost</Val>
-</String>
-<U16>
-<Name>LabVIEW Port</Name>
-<Val>3363</Val>
-</U16>
 </Cluster>
