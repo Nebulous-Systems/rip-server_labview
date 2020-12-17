@@ -14,13 +14,13 @@ run_config: Parameters to configure the execution of the RIP server. By default,
 
 In order to let the RIP web service read and load the changes in these two configuration files, you must need to restart the service. In Windows, this can be done following the next steps:
 
-Write ìservicesî (without quotes) in the search bar and press Enter.
+Write ‚Äúservices‚Äù (without quotes) in the search bar and press Enter.
 Find the service named NI Application Web Server or NI Application Web Server (64-bit), depending on your system and the RIP installer you are using. This service should be running.
-Right click and select ìStopî.
-Edit the .xml configuration files, save changes, right click the service again and select ìStartî this time.
+Right click and select ‚ÄúStop‚Äù.
+Edit the .xml configuration files (either by hand or using Init_Configuration.vi), save changes, right click the service again and select ‚ÄúStart‚Äù this time.
 
 
-You can check whether the RIP server web service is properly working by writing any of these in your web browserís navbar (they should all work):
+You can check whether the RIP server web service is properly working by writing any of these in your web browser‚Äôs navbar (they should all work):
 
 
 http://localhost:8080/RIP - This tests basic RIP web service status.
