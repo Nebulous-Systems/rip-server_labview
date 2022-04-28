@@ -5,7 +5,8 @@ This is a server implementation of the [RIP protocol](https://github.com/UNEDLab
 RIP web service is installed as a service in the machine. Once installed, it is run automatically, even when the computer reboots.
 
 
-There are three configuration files in XML form located at \Program Files (x86)\RIPSebService\Configuration:
+There are three configuration files in XML form located at \Program Files (x86)\RIPSebService\Configuration (or
+   the equivalent path in Mac OS or Linux):
 
 mygadgets_config: Definition of the VIs you want to make available as web services with RIP. When using ENLARGE, you need to change nothing in the cameras configuration. 
 license_config: Here, the user must enter the myFrontier/myVirtualFrontier name and license used to register the ENLARGE system in the International Registration Server.
